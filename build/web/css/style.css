@@ -1,0 +1,35 @@
+#credits{
+    font-size: 10px;
+}
+#h5error{
+    color: #c12e2a;
+}
+body{
+    background: #00000;
+    color: #00000;
+}
+h3{
+    color: #014c8c;
+}
+
+btn{
+    colorbackground: #014c8c;
+    color: #ffffff;
+}
+
+.column {
+  
+ 
+margin-left: auto;
+margin-right: auto;
+padding: 3px;
+text-align: center;
+background-color: #ffffff;
+
+  
+}
+#iconCarrinho{
+    width: 10px;
+    height: 10px;
+  
+}

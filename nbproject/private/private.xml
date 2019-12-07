@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/admin.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/pedidoConcluido.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/css/style.css</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/ListaConvidadosServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/CarrinhoServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/model/Pedido.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/WEB-INF/web.xml</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/model/Carrinho.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/MaisInfosServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/AtualizaInfoServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/dao/GenericDAO.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/model/ItemCarrinho.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/dao/PedidoDAO.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/maisInfos.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/dao/DataSource.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/FinalizaPedidoServelet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/dao/ConvidadoDAO.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/index.html</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/RemoveConvidadoServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/AdicionaConvidadoServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/RemoveCarrinhoServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/carrinho.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/model/Passeio.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/model/Convidado.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/nbproject/build-impl.xml</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/LoginServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/cotas.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/HomeServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/start.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/listaConvidados.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/web/finalizarPedido.jsp</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/controller/AdicionaCarrinhoServlet.java</file>
+            <file>file:/home/felipery03/NetBeansProjects/ListaCasamento/src/java/br/com/listadecasamento/dao/PasseioDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
