@@ -16,7 +16,6 @@ create table tblConvidado(
    id int not null auto_increment,
    nome varchar(100),
    email varchar(70) unique,
-   tel varchar(20),
    msg varchar(300),
    privilegio int,
 
@@ -44,24 +43,12 @@ create table tblPedidoHasPasseio(
     constraint fk_produto foreign key (idpasseio) references tblPasseio(id)
 );
 
-
-insert into tblConvidado values (null, 'convidado1', null, null, null, 0);
-
-insert into tblConvidado values (null, 'convidado2', null, null, null, 0);
-
-insert into tblConvidado values (null, 'convidado3', null, null, null, 0);
-
 insert into tblConvidado values (null, 'admin', null, null, null, 1);
-
-###########################
-
 
 insert into tblPasseio values(null, 'Passeio pelas belas praias de Mauritius', 120.00, 'images/passeio1.jpg');
 insert into tblPasseio values(null, 'Visita a Reserva Natural do parque do Cabo de Boa Esperança', 55.00, 'images/passeio2.jpg');
 insert into tblPasseio values(null, 'Compra de vinhos para o casal com degustação', 300.00, 'images/passeio3.jpg');
-
 insert into tblPasseio values(null, 'Safari de balão no parque Kruger para o casal', 500.00, 'images/passeio4.jpg');
-
 insert into tblPasseio values(null, 'Almoço no Beau Rivage em Mauritius', 210.00, 'images/passeio5.jpg');
 insert into tblPasseio values(null, 'Café da manhã a beira da piscina em Mauritius', 135.00, 'images/passeio6.jpg');
 
